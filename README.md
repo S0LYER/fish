@@ -16,7 +16,7 @@ Config for fish on my MacBook. You mustn't use it on linux because it has severa
 
 ## Installation
 ```
-git clone https://github.com/GadzhievAleksandr/fish
+https://github.com/S0LYER/fish
 cd fish
 cp config.fish ~/.config/fish
 ```
