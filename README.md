@@ -20,3 +20,8 @@ git clone https://github.com/S0LYER/fish
 cd fish
 cp config.fish ~/.config/fish
 ```
+
+---
+
+> [!NOTE]
+> You can use my [starship config](https://github.com/S0LYER/starship) for best view
