@@ -1,5 +1,18 @@
-# Config for fish
-Config for fish on my MacBook. You mustn't use it on linux because it has several features for mac only
+<div align="center">
+
+<br>
+<h3> Config for fish </h3>
+
+<h6> Config for fish on my MacBook. You mustn't use it on linux because it has several features for mac only </h6>
+
+[![License](https://img.shields.io/github/license/S0LYER/fish?color=orange&style=flat-square)](LICENSE)
+<br>
+[![Fish](https://img.shields.io/badge/Fish-3.7_|_4.0-34C534?style=flat-square&logo=fishshell&logoColor=white)](https://fishshell.com)
+[![macOS](https://img.shields.io/badge/macOS-tahoe-000000?style=flat-square&logo=apple&logoColor=white)](https://apple.com/macos)
+
+</div>
+
+<br>
 
 ## Features
 * Set NeoVim by default
